@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\views\\shared\\_identity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\views\\shared\\_identity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\data\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\data\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\views\\account\\registercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\views\\account\\registercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\utils\\authlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\utils\\authlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\data\\services\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\data\\services\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\data\\cart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\data\\cart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|c:\\users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\kabookstore\\kabookstore\\models\\firebaseerrormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF75C6F-0634-4A2F-87E4-5ECA9864FF06}|KABookstore\\KABookstore.csproj|solutionrelative:kabookstore\\models\\firebaseerrormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Identity.cshtml",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Views\\Shared\\_Identity.cshtml",
+              "RelativeDocumentMoniker": "KABookstore\\Views\\Shared\\_Identity.cshtml",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Views\\Shared\\_Identity.cshtml",
+              "RelativeToolTip": "KABookstore\\Views\\Shared\\_Identity.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:01:21.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "KABookstore\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "KABookstore\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T14:34:11.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "KABookstore\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAA0wAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:29:08.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "KABookstore\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAowGsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:21:10.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "KABookstore\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "KABookstore\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAD4vx0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T14:33:36.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Models\\Order.cs",
+              "RelativeToolTip": "KABookstore\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:58:42.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "KABookstore\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "KABookstore\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T14:49:07.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Data\\Services\\OrdersService.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\Services\\OrdersService.cs",
+              "RelativeToolTip": "KABookstore\\Data\\Services\\OrdersService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:57:47.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Program.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Program.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Program.cs",
+              "RelativeToolTip": "KABookstore\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:33:08.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KABookstore\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:22:39.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Data\\AppDbInitializer.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\AppDbInitializer.cs",
+              "RelativeToolTip": "KABookstore\\Data\\AppDbInitializer.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:38:21.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterCompleted.cshtml",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Views\\Account\\RegisterCompleted.cshtml",
+              "RelativeDocumentMoniker": "KABookstore\\Views\\Account\\RegisterCompleted.cshtml",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Views\\Account\\RegisterCompleted.cshtml",
+              "RelativeToolTip": "KABookstore\\Views\\Account\\RegisterCompleted.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T14:33:05.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Models\\LoginModel.cs",
+              "RelativeToolTip": "KABookstore\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:59:22.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthLogger.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Utils\\AuthLogger.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Utils\\AuthLogger.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Utils\\AuthLogger.cs",
+              "RelativeToolTip": "KABookstore\\Utils\\AuthLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:17:41.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Data\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\Services\\BooksService.cs",
+              "RelativeToolTip": "KABookstore\\Data\\Services\\BooksService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:21:51.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\Services\\IOrdersService.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Data\\Services\\IOrdersService.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\Services\\IOrdersService.cs",
+              "RelativeToolTip": "KABookstore\\Data\\Services\\IOrdersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:57:45.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "KABookstore\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwDYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:20:55.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\Cart\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Data\\Cart\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Data\\Cart\\ShoppingCart.cs",
+              "RelativeToolTip": "KABookstore\\Data\\Cart\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:26:02.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FirebaseErrorModel.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Models\\FirebaseErrorModel.cs",
+              "RelativeDocumentMoniker": "KABookstore\\Models\\FirebaseErrorModel.cs",
+              "ToolTip": "C:\\Users\\alici\\source\\repos\\epic-bookstore-application-epic-bookstore-st10142437-st10053689\\KABookstore\\KABookstore\\Models\\FirebaseErrorModel.cs",
+              "RelativeToolTip": "KABookstore\\Models\\FirebaseErrorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:35:43.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
